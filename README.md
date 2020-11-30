@@ -28,3 +28,4 @@ let googleAPIKey = "Your Google API key here"
 ## App Screen
 ![Alt text](readme-images/screenA.jpeg?raw=true "screen A")
 ![Alt text](readme-images/screenB.jpeg?raw=true "screen B")
+Developed by PowerMobileWeb
